@@ -4,4 +4,4 @@ This project creted in education porposes.👨‍🎓
 Checking your hearing manifests on 7 notes
 </p>
 
-<a href='https://https://nickyeromin.github.io/Mini-Piano//'>👉 Play here 👈</a>
+<a href='https://nickyeromin.github.io/Mini-Piano//'>👉 Play here 👈</a>
