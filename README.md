@@ -1,4 +1,3 @@
-# Mini-Piano
 <h1 align='center'>Mini-Piano</h1>
 This project creted in education porposes.👨‍🎓
 <p>
